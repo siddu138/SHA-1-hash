@@ -1,1 +1,1 @@
-# SHA-1-hash
+# SHA-1
